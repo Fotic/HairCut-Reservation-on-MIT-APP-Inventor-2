@@ -4,7 +4,7 @@
 
 >Προηγμένες εφαρμογές κινητής τηλεφωνίας στο MIT APP Inventor 2
 
-## 🔨 Requirements
+## 🧰 Requirements
 
 #### [MIT APP Inventor](http://appinventor.mit.edu/explore/#)
 #### [Notepad ++](https://notepad-plus-plus.org/download/v7.6.6.html)
@@ -12,6 +12,30 @@
 
 ## 📝Notes
 Text Language: Greek
+
+## ▶️APKs
+### 👤 UserUI APP
+
+<b>Username:</b> test <br>
+<b>Password:</b> 1234 <br> <br>
+or you can make your own account <br>
+
+### 👨‍💼 AdminUI APP
+#### ΙΣΑΑΚ
+<b>Username:</b> isaak<br>
+<b>Password:</b> 1234<br>
+
+#### Τριχοκοπτείον
+<b>Username:</b> trixa<br>
+<b>Password:</b> 4321<br>
+
+#### hairplayers
+<b>Username:</b> hairpl<br>
+<b>Password:</b> 54321<br>
+
+#### Gentlemens
+<b>Username:</b> gentlemens<br>
+<b>Password:</b> aq1sw2<br>
 
 ## 🔧 Edit this in order the project to work:
 ### PHP
