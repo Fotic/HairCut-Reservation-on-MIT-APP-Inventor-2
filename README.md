@@ -37,7 +37,7 @@ or you can make your own account <br>
 <b>Username:</b> gentlemens<br>
 <b>Password:</b> aq1sw2<br>
 
-## 🔧 Edit this below:
+## 🔧 Edit the below:
 #### in order the project to work
 ### PHP
 * connect.php
