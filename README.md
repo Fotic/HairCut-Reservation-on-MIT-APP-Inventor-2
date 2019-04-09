@@ -21,23 +21,24 @@ Text Language: Greek
 or you can make your own account <br>
 
 ### 👨‍💼 AdminUI APP
-#### ΙΣΑΑΚ
+#### * ΙΣΑΑΚ * 
 <b>Username:</b> isaak<br>
 <b>Password:</b> 1234<br>
 
-#### Τριχοκοπτείον
+#### * Τριχοκοπτείον * 
 <b>Username:</b> trixa<br>
 <b>Password:</b> 4321<br>
 
-#### hairplayers
+#### * hairplayers * 
 <b>Username:</b> hairpl<br>
 <b>Password:</b> 54321<br>
 
-#### Gentlemens
+#### * Gentlemens * 
 <b>Username:</b> gentlemens<br>
 <b>Password:</b> aq1sw2<br>
 
-## 🔧 Edit this in order the project to work:
+## 🔧 Edit this below:
+#### in order the project to work
 ### PHP
 * connect.php
 <img src="https://a.imagem.app/w97JC.png" alt="w97JC.png" border="0" width="300" />
