@@ -37,33 +37,6 @@ or you can make your own account <br>
 <b>Username:</b> gentlemens<br>
 <b>Password:</b> aq1sw2<br>
 
-## 🔧 Edit the below:
-#### in order the project to work
-### PHP
-* connect.php
-<img src="https://a.imagem.app/w97JC.png" alt="w97JC.png" border="0" width="300" />
-
-### 👤 UserUI APP
-#### Edit URL
-* Screen1
-<img src="https://a.imagem.app/w92hN.png" alt="w92hN.png" border="0" width="330" />
-
-* Register
-<img src="https://a.imagem.app/w90oa.png" alt="w90oa.png" border="0" width="330" />
-
-* ChooseTime
-<img src="https://a.imagem.app/w9YgY.png" alt="w9YgY.png" border="0" width="330" />
-
-* FinaleScreen
-<img src="https://a.imagem.app/w9Ki9.png" alt="w9Ki9.png" border="0" width="330" />
-
-### 👨‍💼 AdminUI APP
-* Screen1
-<img src="https://a.imagem.app/w9sOV.png" alt="w9sOV.png" border="0" width="330" />
-
-* Program
-<img src="https://a.imagem.app/w9eIk.png" alt="w9eIk.png" border="0" width="330" />
-
 ## 📱 Screenshots
 ### 👤 UserUI APP
 * Screen1
