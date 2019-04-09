@@ -11,7 +11,7 @@
 #### Server to upload the php files and database
 
 ## 📝Notes
-Text Language: Greek
+>Text Language: Greek
 
 ## ▶️APKs
 ### 👤 UserUI APP
