@@ -1,7 +1,7 @@
 # HairCut Reservation on MIT APP Inventor 2 📱
+<img src="Poster.png" alt="Poster" border="0" width="300" />
 
 ## ❓ About
-
 >Προηγμένες εφαρμογές κινητής τηλεφωνίας στο MIT APP Inventor 2
 
 ## 🧰 Requirements
